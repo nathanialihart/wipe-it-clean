@@ -5,8 +5,8 @@ A simple python script that uninstalls preinstalled slop on Windows PC's such as
 # DISCLAMER
 THIS CAN *BREAK* WINDOWS UPDATES AND DEFENDER PERMANENTLY. DO NOT RUN ON YOUR PRIMARY PC 
 I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE BY THIS SOFTWARE. YOU CHOOSE TO RUN IT, IT IS YOUR RESPONSIBILITY.
-
-there is also a rollback i put in there to well, obviously fix the damage done
+# rollback
+there is also a rollback i put in there to well, obviously fix the damage done. youll still have to reinstall the uwp apps though.
 
 
 
